@@ -1,1 +1,1 @@
-# Yeshpal-Singh-Sparks-Foundation-Internship---EDA-on-Terrorism-Dataset
+# Yeshpal-Singh-Sparks-Foundation-Internship
